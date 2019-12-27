@@ -10,8 +10,12 @@ Do {
     $bodyWeight = [int](Read-Host -Prompt "Enter your body weight (lbs)");
 } While ($bodyWeight -eq 0)
 
-Write-Host "`nPrepare 3 bars as follows (round up/down as needed):" -ForegroundColor DarkYellow;
-ForEach($set in $lindaWOD) { Write-Host "$($set.exercise): $($set.weight * $bodyWeight) lbs."; }
+Write-Host "`nPrepare 3 bars as follows (round up/down as needed):
+            " -ForegroundColor DarkYellow;
+
+ForEach($set in $lindaWOD) {
+    Write-Host "$($set.exercise): $($set.weight * $bodyWeight) lbs.";
+}
 
 Read-Host -Prompt "`nPress any key when ready to start";
 
