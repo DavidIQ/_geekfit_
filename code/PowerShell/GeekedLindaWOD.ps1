@@ -17,7 +17,6 @@ Read-Host -Prompt "`nPress any key when ready to start";
 
 For($i=10; $i -gt 0; $i--) {
     ForEach($set in $lindaWOD) {
-    
         Write-Host "$($set.exercise) x $i reps";
         Read-Host -Prompt "Press any key to continue...";
     }
