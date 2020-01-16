@@ -20,7 +20,7 @@ print(
         "For this one challenge yourself by increasing the treadmill\n" .
         "speed by 0.5 MPH every 5 minutes and increasing the incline\n" .
         "by 1 every 10 minutes.\n\n", 'dark_gray') .
-    $t->colorize("Aim for 5 miles, which would put your mile pace at 1 mile\n" .
+    $t->colorize("Aim for 5 miles, which would put your mile pace at 1 mile \n" .
         "every 9 minutes or a speed of approximately 6.7 MPH.\n\n\n", 'yellow')
 );
 
