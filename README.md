@@ -1,6 +1,6 @@
 # Geeked Workouts
 
-## All workouts that have been published on [@_geekfit_](https://www.instagram.com/_geekfit_/)
+## All workouts that have been published on [@\_geekfit\_](https://www.instagram.com/_geekfit_/)
 
 These all actually work!
 
