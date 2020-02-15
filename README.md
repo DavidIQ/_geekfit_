@@ -22,4 +22,7 @@ These all actually work!
 - [Otis (CrossFit)](https://github.com/DavidIQ/geekfit/blob/master/code/TypeScript/GeekedOtisWOD.ts) - [post](https://www.instagram.com/p/B5vPm7pl3ev/)
 
 ### [Python](https://github.com/DavidIQ/geekfit/blob/master/code/python)
-- [The Mamba](https://github.com/DavidIQ/geekfit/blob/master/code/python/GeekedTheMambaWOD.py) - [post](https://www.instagram.com/p/B77TStkl1TE/?utm_source=ig_web_copy_link)
+- [The Mamba](https://github.com/DavidIQ/geekfit/blob/master/code/python/GeekedTheMambaWOD.py) - [post](https://www.instagram.com/p/B77TStkl1TE/)
+
+### [VB.net](https://github.com/DavidIQ/geekfit/blob/master/code/VB.net)
+- [Up and Down the Ladder](https://github.com/DavidIQ/geekfit/blob/master/code/VB.net/UpAndDownTheLadderWOD/) - [post](https://www.instagram.com/p/B8kqRlWlxbH/)

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "UpAndDownTheLadderWOD", "UpAndDownTheLadderWOD.vbproj", "{55C4CEB7-1905-4EFF-BE07-FF1EFDB13E94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55C4CEB7-1905-4EFF-BE07-FF1EFDB13E94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C4CEB7-1905-4EFF-BE07-FF1EFDB13E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C4CEB7-1905-4EFF-BE07-FF1EFDB13E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C4CEB7-1905-4EFF-BE07-FF1EFDB13E94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9326D554-1A91-421B-83D3-CA0595FC23B1}
+	EndGlobalSection
+EndGlobal
