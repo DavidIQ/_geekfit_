@@ -9,6 +9,9 @@ These all actually work!
 ### [C#](https://github.com/DavidIQ/geekfit/blob/master/code/CSharp)
 - [Run The Rack 1](https://github.com/DavidIQ/geekfit/blob/master/code/CSharp/GeekedRunTheRackWorkout1.cs) - [post](https://www.instagram.com/p/B6O6LjMFcv2/)
 
+### [Bash](https://github.com/DavidIQ/geekfit/tree/master/code/bash)
+- [QuarantWOD-01](https://github.com/DavidIQ/geekfit/blob/master/code/bash/QuarantWOD.sh) - [post](https://www.instagram.com/p/CAdS-A6F2P6/)
+
 ### [HTML](https://github.com/DavidIQ/geekfit/blob/master/code/HTML)
 - [Buck Furpees](https://github.com/DavidIQ/geekfit/blob/master/code/HTML/GeekedBuckFurpeesWorkout.html) - [post](https://www.instagram.com/p/B64IEqJlBja/)
 
