@@ -48,15 +48,14 @@ Pick a level:
 	esac
 done
 clear;
-echo -e "
+routine="
 ---------------------------
 $level level selected
 ---------------------------
 Lunges:  ${reps[0]}
 Sit-ups: ${reps[1]}
-Burpees: ${reps[2]}
-
-Begin in...\n";
+Burpees: ${reps[2]}\n";
+echo -e "$routine\nBegin in...\n"
 t=5
 while [ $t -ge 1 ]
 do
@@ -65,6 +64,8 @@ do
 	((t--));
 done
 echo -e "\nGO GO GOOOOOOO!!!!!\n\n";
+clear;
+echo -e "$routine\nStart with first exercise every minute.\n";
 m=15;
 while [ $m -ge 1 ]
 do
