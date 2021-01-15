@@ -6,11 +6,14 @@ These all actually work!
 
 ---
 
+### [Bash](https://github.com/DavidIQ/geekfit/tree/master/code/bash)
+- [QuarantWOD-01](https://github.com/DavidIQ/geekfit/blob/master/code/bash/QuarantWOD.sh) - [post](https://www.instagram.com/p/CAdS-A6F2P6/)
+
 ### [C#](https://github.com/DavidIQ/geekfit/blob/master/code/CSharp)
 - [Run The Rack 1](https://github.com/DavidIQ/geekfit/blob/master/code/CSharp/GeekedRunTheRackWorkout1.cs) - [post](https://www.instagram.com/p/B6O6LjMFcv2/)
 
-### [Bash](https://github.com/DavidIQ/geekfit/tree/master/code/bash)
-- [QuarantWOD-01](https://github.com/DavidIQ/geekfit/blob/master/code/bash/QuarantWOD.sh) - [post](https://www.instagram.com/p/CAdS-A6F2P6/)
+### [Excel](https://github.com/DavidIQ/geekfit/blob/master/code/Excel)
+- [CrossFit WODs](https://github.com/DavidIQ/geekfit/blob/master/code/Excel/CrossFitWODs.xlsx) - [post](https://www.instagram.com/p/CKEgcP1MtVj/)
 
 ### [HTML](https://github.com/DavidIQ/geekfit/blob/master/code/HTML)
 - [Buck Furpees](https://github.com/DavidIQ/geekfit/blob/master/code/HTML/GeekedBuckFurpeesWorkout.html) - [post](https://www.instagram.com/p/B64IEqJlBja/)
@@ -21,11 +24,11 @@ These all actually work!
 ### [PowerShell](https://github.com/DavidIQ/geekfit/blob/master/code/PowerShell)
 - [Linda (CrossFit)](https://github.com/DavidIQ/geekfit/blob/master/code/PowerShell/GeekedLindaWOD.ps1) - [post](https://www.instagram.com/p/B6l9hR6lHLN/)
 
-### [TypeScript](https://github.com/DavidIQ/geekfit/blob/master/code/TypeScript)
-- [Otis (CrossFit)](https://github.com/DavidIQ/geekfit/blob/master/code/TypeScript/GeekedOtisWOD.ts) - [post](https://www.instagram.com/p/B5vPm7pl3ev/)
-
 ### [Python](https://github.com/DavidIQ/geekfit/blob/master/code/python)
 - [The Mamba](https://github.com/DavidIQ/geekfit/blob/master/code/python/GeekedTheMambaWOD.py) - [post](https://www.instagram.com/p/B77TStkl1TE/)
+
+### [TypeScript](https://github.com/DavidIQ/geekfit/blob/master/code/TypeScript)
+- [Otis (CrossFit)](https://github.com/DavidIQ/geekfit/blob/master/code/TypeScript/GeekedOtisWOD.ts) - [post](https://www.instagram.com/p/B5vPm7pl3ev/)
 
 ### [VB.net](https://github.com/DavidIQ/geekfit/blob/master/code/VB.net)
 - [Up and Down the Ladder](https://github.com/DavidIQ/geekfit/blob/master/code/VB.net/UpAndDownTheLadderWOD/) - [post](https://www.instagram.com/p/B8kqRlWlxbH/)
